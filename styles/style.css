@@ -1,0 +1,15 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.p-f-color{
+    color: #FABE4C;
+}
+.p-f-btn-primary{
+    width: 170px;
+    height: 60px;
+    padding: 18px 33px;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    color: white;
+    border-radius: 10px ;
+    border: 0;
+}
